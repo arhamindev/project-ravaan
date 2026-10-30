@@ -1,0 +1,105 @@
+{
+  "proposedNotice": "Proposed launch policy — prototype assumption. Please confirm with RAVAAN before relying on it.",
+  "delivery": {
+    "title": "Delivery Policy",
+    "sections": [
+      {
+        "heading": "Coverage",
+        "text": [
+          "Delivery coverage: Pakistan."
+        ]
+      },
+      {
+        "heading": "Estimated delivery",
+        "list": [
+          "Karachi: 2–4 business days.",
+          "Other major cities: 3–6 business days.",
+          "Remote locations: 5–8 business days."
+        ]
+      },
+      {
+        "heading": "Delivery charges",
+        "list": [
+          "Karachi: PKR 200.",
+          "Other cities: PKR 250.",
+          "Free delivery on orders above PKR 5,000."
+        ]
+      },
+      {
+        "heading": "Good to know",
+        "text": [
+          "We aim to deliver orders within the estimated delivery window. Delivery times may vary depending on the destination, courier operations and order processing.",
+          "Once your order has been processed, you can contact us on WhatsApp for an update.",
+          "These are prototype assumptions and must be confirmed with the actual courier arrangement before public launch."
+        ]
+      },
+      {
+        "heading": "Payment",
+        "text": [
+          "Proposed initial payment method: Cash on Delivery (COD). The customer pays the order amount to the courier upon delivery."
+        ]
+      }
+    ]
+  },
+  "exchange": {
+    "title": "Exchange Policy",
+    "sections": [
+      {
+        "heading": "Our approach",
+        "text": [
+          "We want you to feel confident about your RAVAAN purchase. If your item has a sizing issue or arrives with a problem, contact our support team within 7 days of delivery."
+        ]
+      },
+      {
+        "heading": "Proposed terms",
+        "list": [
+          "Customers may request an exchange within 7 days of receiving their order.",
+          "Items must be unused, unworn, unwashed and in their original condition.",
+          "Original tags and packaging should be retained.",
+          "Exchange requests must be submitted through WhatsApp.",
+          "Exchanges are subject to availability.",
+          "Sale items may be excluded from exchange, subject to the final published policy.",
+          "Refunds are not automatically offered under this proposed exchange-only policy."
+        ]
+      },
+      {
+        "heading": "Start an exchange",
+        "text": [
+          "Message us on WhatsApp with your order details and we will guide you through the process."
+        ],
+        "action": "exchange"
+      }
+    ]
+  },
+  "cancellation": {
+    "title": "Cancellation Policy",
+    "sections": [
+      {
+        "heading": "Cancelling an order",
+        "text": [
+          "Order cancellation requests should be submitted as soon as possible through WhatsApp. Orders that have already been dispatched may not be eligible for cancellation."
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "sections": [
+      {
+        "heading": "Your information",
+        "text": [
+          "RAVAAN respects your privacy. Information provided during checkout, including your name, phone number and delivery address, is used to process and coordinate your order.",
+          "We do not intentionally request unnecessary personal information through our website.",
+          "Order details may be shared with relevant delivery service providers when necessary to fulfil an order.",
+          "Customers may contact RAVAAN through WhatsApp regarding questions about their submitted order information."
+        ]
+      },
+      {
+        "heading": "On this device",
+        "text": [
+          "Your shopping bag is stored in your browser (localStorage) so it is still there when you return. It is not sent anywhere until you choose to continue to WhatsApp."
+        ]
+      }
+    ]
+  }
+}

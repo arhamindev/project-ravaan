@@ -1,0 +1,47 @@
+{
+  "brand": "RAVAAN",
+  "tagline": "Wear Your Pace.",
+  "location": "Karachi, Pakistan",
+  "currency": "PKR",
+  "whatsappLocal": "03152136621",
+  "whatsappInternational": "923152136621",
+  "supportHours": "Monday–Saturday, 11:00 AM–8:00 PM PKT",
+  "expectedResponse": "Within 24 business hours",
+  "delivery": {
+    "karachiCharge": 200,
+    "otherCitiesCharge": 250,
+    "freeDeliveryAbove": 5000,
+    "estimates": [
+      {
+        "area": "Karachi",
+        "time": "2–4 business days"
+      },
+      {
+        "area": "Other major cities",
+        "time": "3–6 business days"
+      },
+      {
+        "area": "Remote locations",
+        "time": "5–8 business days"
+      }
+    ]
+  },
+  "paymentMethod": "Cash on Delivery (COD)",
+  "isProposedPolicy": true,
+  "heroProduct": {
+    "productId": "men-014",
+    "lookLabels": [
+      "Full view",
+      "Front detail",
+      "Sleeve detail"
+    ]
+  },
+  "orderMessage": {
+    "intro": "Hello RAVAAN! I'd like to place an order.",
+    "outro": "Please confirm my order. Thank you!"
+  },
+  "messages": {
+    "enquiry": "Hello RAVAAN! I have a question about your collection. Could you please help me?",
+    "exchange": "Hello RAVAAN! I'd like assistance with an exchange request.\n\nOrder details:\n[Please add your order details here]\n\nPlease guide me through the process."
+  }
+}

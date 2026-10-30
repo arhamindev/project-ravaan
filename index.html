@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+  <!-- ============ SEO ============ -->
+  <title>RAVAAN | Wear Your Pace. Contemporary Streetwear from Karachi</title>
+  <meta name="description" content="RAVAAN is a contemporary streetwear brand from Karachi, Pakistan. Everyday essentials for men and women, ordered through WhatsApp with Cash on Delivery.">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="RAVAAN">
+  <meta name="theme-color" content="#F2F0EB">
+  <meta name="format-detection" content="telephone=no">
+
+  <!--
+    TODO (before launch): once you have a real domain, add these two lines with the full address:
+    <link rel="canonical" href="https://YOUR-DOMAIN/">
+    <meta property="og:url" content="https://YOUR-DOMAIN/">
+    And change og:image / twitter:image below to full https://YOUR-DOMAIN/assets/images/og-image.jpg
+    (social networks ignore relative image paths).
+  -->
+
+  <!-- Open Graph (link previews on WhatsApp, Facebook, etc.) -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="RAVAAN">
+  <meta property="og:title" content="RAVAAN | Wear Your Pace.">
+  <meta property="og:description" content="Contemporary streetwear for everyday movement. Men and women, from Karachi.">
+  <meta property="og:image" content="assets/images/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="RAVAAN wordmark beside an off-white zip hoodie">
+  <meta property="og:locale" content="en_PK">
+
+  <!-- Twitter / X card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RAVAAN | Wear Your Pace.">
+  <meta name="twitter:description" content="Contemporary streetwear for everyday movement. Men and women, from Karachi.">
+  <meta name="twitter:image" content="assets/images/og-image.jpg">
+
+  <!-- Favicons and app icons -->
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="48x48">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+
+  <!-- Structured data: helps search engines understand the business. Only facts supplied by the brand are used. -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ClothingStore",
+    "name": "RAVAAN",
+    "description": "Contemporary streetwear for men and women, based in Karachi, Pakistan.",
+    "slogan": "Wear Your Pace.",
+    "telephone": "+923152136621",
+    "address": { "@type": "PostalAddress", "addressLocality": "Karachi", "addressCountry": "PK" },
+    "areaServed": "PK",
+    "currenciesAccepted": "PKR",
+    "paymentAccepted": "Cash on Delivery",
+    "openingHours": "Mo-Sa 11:00-20:00"
+  }
+  </script>
+
+  <!-- Fonts and icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+  <!-- Site styles -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/responsive.css">
+
+  <link rel="preload" as="image" href="assets/images/hero-jacket-cutout.webp">
+</head>
+
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- Loading screen (hidden by main.js when data is ready) -->
+  <div class="loader" id="loader" role="status" aria-live="polite">
+    <p class="loader__text">Preparing your experience...</p>
+  </div>
+
+  <noscript>
+    <p class="noscript-note">RAVAAN needs JavaScript to show the collection. You can still order by messaging us on WhatsApp: 03152136621.</p>
+  </noscript>
+
+  <!-- NAVBAR: absolutely positioned so it is NOT sticky (it scrolls away with the page) -->
+  <header class="site-nav" id="site-nav">
+    <a class="site-nav__brand" href="#/home" aria-label="RAVAAN home">RAVAAN</a>
+    <nav class="site-nav__links" aria-label="Main">
+      <a href="#/blog">Blog</a>
+      <a href="#/faq">FAQ</a>
+      <a href="#/contact">Contact</a>
+    </nav>
+    <button class="icon-btn js-open-cart" type="button" aria-label="Open shopping cart">
+      <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+      <span class="icon-btn__count js-cart-count" hidden>0</span>
+    </button>
+  </header>
+
+  <main id="main">
+
+    <!-- ===================== 1. HERO ===================== -->
+    <section class="hero" id="hero" aria-label="RAVAAN Collection 001">
+      <div class="hero__stage" id="hero-stage">
+
+        <p class="hero__label">RAVAAN — COLLECTION 001</p>
+        <h1 class="hero__title" id="hero-title">
+          <span class="hero__title-line"><span>WEAR YOUR</span></span>
+          <span class="hero__title-line"><span>PACE.</span></span>
+        </h1>
+
+        <!-- Top-right: look selector, supporting copy and calls to action -->
+        <div class="hero__side">
+          <div class="hero__looks" role="group" aria-label="Choose a look">
+            <button class="hero__look is-active" type="button" data-look="0" aria-pressed="true">Look 01</button>
+            <button class="hero__look" type="button" data-look="1" aria-pressed="false">Look 02</button>
+            <button class="hero__look" type="button" data-look="2" aria-pressed="false">Look 03</button>
+          </div>
+          <p class="hero__copy">Contemporary streetwear for everyday movement. Discover pieces designed to become part of your own direction.</p>
+          <div class="hero__actions">
+            <a class="btn" href="#portal-cards">EXPLORE COLLECTION</a>
+            <a class="btn btn--ghost" href="#story">DISCOVER RAVAAN</a>
+          </div>
+        </div>
+
+        <!--
+          The three hero images. They are all made from the single jacket photo you supplied:
+          each frame shows a different framing (full view, front detail, sleeve detail) on its own tone.
+          To use real photos later, replace the <img src> values in each frame.
+        -->
+        <div class="hero__frames" id="hero-frames">
+          <figure class="hero-frame hero-frame--sleeve" data-frame="a">
+            <img src="assets/images/hero-jacket-cutout.webp" alt="Detail of the sleeve panel on the off-white zip hoodie" width="577" height="631" decoding="async">
+          </figure>
+          <figure class="hero-frame hero-frame--full" data-frame="b">
+            <img src="assets/images/hero-jacket-cutout.webp" alt="Off-white oversized zip hoodie with sculpted lilac-grey panels, full view" width="577" height="631" fetchpriority="high" decoding="async">
+          </figure>
+          <figure class="hero-frame hero-frame--front" data-frame="c">
+            <img src="assets/images/hero-jacket-cutout.webp" alt="Front detail of the zip hoodie showing the raised chest panels and pocket" width="577" height="631" decoding="async">
+          </figure>
+        </div>
+
+        <!-- Bottom-left: product information (updates with the look in the centre) -->
+        <div class="hero__info" id="hero-info">
+          <p class="hero__product"><span id="hero-product-name">Essential Zip Hoodie</span> <span id="hero-product-price" class="hero__price">PKR 3,790</span></p>
+          <p class="hero__look-label"><span id="hero-look-index">01 / 03</span> <span id="hero-look-name">Full view</span></p>
+          <button class="link-btn" type="button" id="hero-shop-btn">Shop this piece</button>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ===================== 2. BRAND STORY ===================== -->
+    <!-- A tall section with a sticky inner panel. Scrolling moves a GSAP timeline through three moments. -->
+    <section class="story" id="story" aria-label="The RAVAAN story">
+      <div class="story__sticky">
+        <div class="story__text">
+          <article class="story-moment is-first" data-moment="0">
+            <h2 class="story-moment__title">Clothing is more than what you wear. It's how you carry yourself.</h2>
+            <p class="story-moment__body">RAVAAN is built around a simple idea: everyday clothing should feel effortless, look considered and leave room for individuality.</p>
+          </article>
+          <article class="story-moment" data-moment="1">
+            <h2 class="story-moment__title">Less noise. More identity.</h2>
+            <p class="story-moment__body">Fashion is constantly changing, but personal style is something you build yourself. RAVAAN brings together contemporary streetwear influences and everyday essentials to create a wardrobe that feels relevant without trying too hard.</p>
+          </article>
+          <article class="story-moment" data-moment="2">
+            <h2 class="story-moment__title">Not here to follow. Here to find your own way.</h2>
+            <p class="story-moment__body">Your style is personal. Your choices are yours. RAVAAN brings together everyday essentials and contemporary streetwear for those who prefer to make their own statement.</p>
+            <p class="story-moment__sign">Wear your pace. Define your direction.</p>
+          </article>
+        </div>
+
+        <div class="story__media" aria-hidden="false">
+          <figure class="story-image story-image--jacket is-first" data-moment="0">
+            <img src="assets/images/hero-jacket-cutout.webp" alt="Off-white zip hoodie on a dark background" width="577" height="631" loading="lazy" decoding="async">
+          </figure>
+          <figure class="story-image story-image--machine" data-moment="1">
+            <img src="assets/images/about-us-img.webp" alt="Illustration of a vintage sewing machine" width="1400" height="1059" loading="lazy" decoding="async">
+          </figure>
+          <figure class="story-image story-image--detail" data-moment="2">
+            <img src="assets/images/hero-jacket-cutout.webp" alt="Close detail of the sculpted hoodie panels" width="577" height="631" loading="lazy" decoding="async">
+          </figure>
+        </div>
+
+        <div class="story__progress" aria-hidden="true"><span class="story__progress-bar"></span></div>
+      </div>
+    </section>
+
+    <!-- ===================== 3. SHOP PORTAL ===================== -->
+    <section class="portal" id="portal" aria-label="Shop RAVAAN">
+      <canvas class="portal__canvas" id="portal-canvas" aria-hidden="true"></canvas>
+
+      <!-- Part A: the giant wordmark that scales up as you scroll -->
+      <div class="portal__intro" id="portal-intro">
+        <div class="portal__sticky">
+          <p class="portal__wordmark" id="portal-wordmark" aria-hidden="true">RAVAAN</p>
+          <h2 class="sr-only">Shop RAVAAN</h2>
+          <p class="portal__phrase" id="portal-phrase">Find your direction.</p>
+        </div>
+      </div>
+
+      <!-- Part B: the five navigation cards -->
+      <div class="portal__cards" id="portal-cards">
+        <ul class="portal-grid">
+          <li class="portal-card portal-card--lg portal-card--men">
+            <a href="#/men" class="portal-card__link">
+              <img class="portal-card__img" src="assets/images/hero-jacket-cutout.webp" alt="" width="577" height="631" loading="lazy">
+              <span class="portal-card__label">MEN</span>
+            </a>
+          </li>
+          <li class="portal-card portal-card--lg portal-card--women">
+            <a href="#/women" class="portal-card__link">
+              <img class="portal-card__img" src="assets/images/hero-jacket-cutout.webp" alt="" width="577" height="631" loading="lazy">
+              <span class="portal-card__label">WOMEN</span>
+            </a>
+          </li>
+          <li class="portal-card portal-card--sm portal-card--winter">
+            <a href="#/winter" class="portal-card__link">
+              <img class="portal-card__img" src="assets/images/hero-jacket-cutout.webp" alt="" width="577" height="631" loading="lazy">
+              <span class="portal-card__label">WINTER LOOK</span>
+            </a>
+          </li>
+          <li class="portal-card portal-card--sm portal-card--summer">
+            <a href="#/summer" class="portal-card__link">
+              <img class="portal-card__img" src="assets/images/product-placeholder.webp" alt="" width="609" height="640" loading="lazy">
+              <span class="portal-card__label">SUMMER LOOK</span>
+            </a>
+          </li>
+          <li class="portal-card portal-card--sm portal-card--faq">
+            <a href="#/faq" class="portal-card__link">
+              <img class="portal-card__img" src="assets/images/about-us-img.webp" alt="" width="1400" height="1059" loading="lazy">
+              <span class="portal-card__label">FAQ</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer for the main page (the same footer is cloned into every overlay page) -->
+  <div id="main-footer"></div>
+
+  <!-- Overlay pages (Men, Women, Winter, Summer, FAQ, policies...) are created here by JavaScript -->
+  <div id="overlay-root"></div>
+
+  <!-- Floating cart: only visible when the cart has items -->
+  <button class="floating-cart js-open-cart" id="floating-cart" type="button" aria-label="Open shopping cart" hidden>
+    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+    <span class="floating-cart__count js-cart-count">0</span>
+  </button>
+
+  <!-- ===== CART DRAWER ===== -->
+  <div class="drawer-backdrop" id="cart-backdrop" hidden></div>
+  <aside class="drawer" id="cart-drawer" role="dialog" aria-modal="true" aria-labelledby="cart-title" aria-hidden="true" hidden>
+    <header class="drawer__header">
+      <h2 class="drawer__title" id="cart-title">YOUR BAG</h2>
+      <button class="icon-btn js-close-cart" type="button" aria-label="Close cart"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+    </header>
+    <div class="drawer__body" id="cart-body"></div>
+    <footer class="drawer__footer" id="cart-footer"></footer>
+  </aside>
+
+  <!-- ===== PRODUCT DETAIL MODAL ===== -->
+  <div class="modal" id="product-modal" role="dialog" aria-modal="true" aria-labelledby="product-modal-name" aria-hidden="true" hidden>
+    <div class="modal__scrim js-close-product"></div>
+    <div class="modal__panel modal__panel--product">
+      <button class="icon-btn modal__close js-close-product" type="button" aria-label="Close product"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+      <div class="product-detail" id="product-detail"></div>
+    </div>
+  </div>
+
+  <!-- ===== CHECKOUT MODAL ===== -->
+  <div class="modal" id="checkout-modal" role="dialog" aria-modal="true" aria-labelledby="checkout-title" aria-hidden="true" hidden>
+    <div class="modal__scrim js-close-checkout"></div>
+    <div class="modal__panel modal__panel--checkout">
+      <button class="icon-btn modal__close js-close-checkout" type="button" aria-label="Close checkout"><i class="fa-solid fa-xmark" aria-hidden="true"></i></button>
+      <div id="checkout-content"></div>
+    </div>
+  </div>
+
+  <!-- Toast message ("Added to your bag.") -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <!-- Footer markup, cloned by navigation.js -->
+  <template id="footer-template">
+    <footer class="site-footer">
+      <div class="site-footer__grid">
+        <div class="site-footer__brandblock">
+          <p class="site-footer__brand">RAVAAN</p>
+          <p class="site-footer__tagline">Wear Your Pace.</p>
+        </div>
+        <nav aria-label="Footer navigation">
+          <ul class="site-footer__list">
+            <li><a href="#/home">Home</a></li>
+            <li><a href="#/men">Men</a></li>
+            <li><a href="#/women">Women</a></li>
+            <li><a href="#/winter">Winter</a></li>
+            <li><a href="#/summer">Summer</a></li>
+            <li><a href="#/faq">FAQ</a></li>
+            <li><a href="#/contact">Contact</a></li>
+          </ul>
+        </nav>
+        <nav aria-label="Policies">
+          <ul class="site-footer__list">
+            <li><a href="#/size-guide">Size Guide</a></li>
+            <li><a href="#/delivery">Delivery</a></li>
+            <li><a href="#/exchange">Exchange Policy</a></li>
+            <li><a href="#/cancellation">Cancellation</a></li>
+            <li><a href="#/privacy">Privacy Policy</a></li>
+          </ul>
+        </nav>
+        <div class="site-footer__contact">
+          <p>WhatsApp: <a class="js-whatsapp-link" href="https://wa.me/923152136621" target="_blank" rel="noopener">03152136621</a></p>
+          <p>Karachi, Pakistan</p>
+        </div>
+      </div>
+      <p class="site-footer__legal">© 2026 RAVAAN. All rights reserved.</p>
+    </footer>
+  </template>
+
+  <!-- ===== SCRIPTS ===== -->
+  <!-- GSAP + ScrollTrigger from the CDN. If the CDN is unreachable, the local copies in assets/vendor are used. -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.14.2/gsap.min.js"></script>
+  <script>window.gsap || document.write('<script src="assets/vendor/gsap.min.js"><\/script>');</script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.14.2/ScrollTrigger.min.js"></script>
+  <script>window.ScrollTrigger || document.write('<script src="assets/vendor/ScrollTrigger.min.js"><\/script>');</script>
+
+  <!-- Our code. Order matters: shared helpers first, main.js last because it starts everything. -->
+  <script src="js/utils.js"></script>
+  <script src="js/cart.js"></script>
+  <script src="js/products.js"></script>
+  <script src="js/checkout.js"></script>
+  <script src="js/faq.js"></script>
+  <script src="js/info.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/heroAnimation.js"></script>
+  <script src="js/storyAnimation.js"></script>
+  <script src="js/portal.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

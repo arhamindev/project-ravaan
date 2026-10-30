@@ -1,0 +1,13 @@
+{
+  "name": "RAVAAN",
+  "short_name": "RAVAAN",
+  "description": "Contemporary streetwear for everyday movement.",
+  "start_url": "./index.html",
+  "display": "browser",
+  "background_color": "#F2F0EB",
+  "theme_color": "#F2F0EB",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

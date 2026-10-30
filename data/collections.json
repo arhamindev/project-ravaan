@@ -1,0 +1,85 @@
+{
+  "men": {
+    "title": "MEN",
+    "headline": "EVERYDAY, REDEFINED.",
+    "description": "Contemporary essentials and streetwear-inspired pieces designed to fit naturally into your everyday wardrobe.",
+    "image": null
+  },
+  "women": {
+    "title": "WOMEN",
+    "headline": "STYLE WITHOUT LIMITS.",
+    "description": "Contemporary silhouettes, everyday essentials and versatile pieces for a style that is entirely your own.",
+    "image": null
+  },
+  "winter": {
+    "title": "RAVAAN — WINTER 001",
+    "headline": "LAYER UP. STAY YOURSELF.",
+    "description": "Built around layering, relaxed silhouettes and everyday streetwear influences. Discover a collection that brings comfort and personal style together.",
+    "cta": "EXPLORE WINTER",
+    "image": "assets/images/hero-jacket-cutout.webp",
+    "suggestedCategories": [
+      "Hoodies",
+      "Jackets",
+      "Sweatshirts",
+      "Long-sleeve essentials",
+      "Winter accessories"
+    ],
+    "categories": [
+      "Hoodies",
+      "Jackets"
+    ],
+    "productIds": [
+      "men-013",
+      "men-014",
+      "men-015",
+      "men-016",
+      "men-017",
+      "men-018",
+      "women-013",
+      "women-014",
+      "women-015",
+      "women-016",
+      "women-017",
+      "women-018"
+    ],
+    "note": "Only categories that exist in the sample catalogue are shown. Add Sweatshirts etc. here once real products exist."
+  },
+  "summer": {
+    "title": "RAVAAN — SUMMER 001",
+    "headline": "LIGHTER DAYS. YOUR OWN WAY.",
+    "description": "Easy silhouettes and everyday essentials for warmer days. Keep your look simple, comfortable and entirely your own.",
+    "cta": "EXPLORE SUMMER",
+    "image": "assets/images/product-placeholder.webp",
+    "suggestedCategories": [
+      "T-shirts",
+      "Shirts",
+      "Tops",
+      "Lightweight pants",
+      "Summer accessories"
+    ],
+    "categories": [
+      "T-shirts",
+      "Shirts",
+      "Tops"
+    ],
+    "productIds": [
+      "men-001",
+      "men-002",
+      "men-003",
+      "men-004",
+      "men-005",
+      "men-006",
+      "men-007",
+      "men-008",
+      "women-001",
+      "women-002",
+      "women-003",
+      "women-004",
+      "women-005",
+      "women-006",
+      "women-007",
+      "women-008"
+    ],
+    "note": "Lightweight pants and summer accessories are left out until real product data confirms them."
+  }
+}

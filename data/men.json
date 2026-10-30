@@ -1,0 +1,448 @@
+{
+  "gender": "men",
+  "label": "Men",
+  "categories": [
+    "Shirts",
+    "T-shirts",
+    "Pants",
+    "Hoodies",
+    "Jackets",
+    "Hats",
+    "Shoes"
+  ],
+  "products": [
+    {
+      "id": "men-001",
+      "slug": "essential-oversized-tee",
+      "name": "Essential Oversized Tee",
+      "category": "T-shirts",
+      "price": 1490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-002",
+      "slug": "ravaan-core-tee",
+      "name": "RAVAAN Core Tee",
+      "category": "T-shirts",
+      "price": 1290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-003",
+      "slug": "urban-boxy-tee",
+      "name": "Urban Boxy Tee",
+      "category": "T-shirts",
+      "price": 1690,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-004",
+      "slug": "everyday-graphic-tee",
+      "name": "Everyday Graphic Tee",
+      "category": "T-shirts",
+      "price": 1790,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-005",
+      "slug": "relaxed-fit-shirt",
+      "name": "Relaxed Fit Shirt",
+      "category": "Shirts",
+      "price": 2490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-006",
+      "slug": "classic-utility-shirt",
+      "name": "Classic Utility Shirt",
+      "category": "Shirts",
+      "price": 2790,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-007",
+      "slug": "minimal-oxford-shirt",
+      "name": "Minimal Oxford Shirt",
+      "category": "Shirts",
+      "price": 2990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-008",
+      "slug": "everyday-overshirt",
+      "name": "Everyday Overshirt",
+      "category": "Shirts",
+      "price": 3190,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-009",
+      "slug": "relaxed-straight-pants",
+      "name": "Relaxed Straight Pants",
+      "category": "Pants",
+      "price": 2990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-010",
+      "slug": "urban-cargo-pants",
+      "name": "Urban Cargo Pants",
+      "category": "Pants",
+      "price": 3490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-011",
+      "slug": "essential-joggers",
+      "name": "Essential Joggers",
+      "category": "Pants",
+      "price": 2490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-012",
+      "slug": "wide-leg-trousers",
+      "name": "Wide Leg Trousers",
+      "category": "Pants",
+      "price": 3290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-013",
+      "slug": "core-pullover-hoodie",
+      "name": "Core Pullover Hoodie",
+      "category": "Hoodies",
+      "price": 3490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-014",
+      "slug": "essential-zip-hoodie",
+      "name": "Essential Zip Hoodie",
+      "category": "Hoodies",
+      "price": 3790,
+      "currency": "PKR",
+      "image": "assets/images/hero-jacket-cutout.webp",
+      "gallery": [
+        "assets/images/hero-jacket-cutout.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": true
+    },
+    {
+      "id": "men-015",
+      "slug": "relaxed-fit-hoodie",
+      "name": "Relaxed Fit Hoodie",
+      "category": "Hoodies",
+      "price": 3990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-016",
+      "slug": "urban-graphic-hoodie",
+      "name": "Urban Graphic Hoodie",
+      "category": "Hoodies",
+      "price": 4290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-017",
+      "slug": "everyday-bomber-jacket",
+      "name": "Everyday Bomber Jacket",
+      "category": "Jackets",
+      "price": 4990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-018",
+      "slug": "utility-street-jacket",
+      "name": "Utility Street Jacket",
+      "category": "Jackets",
+      "price": 5490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-019",
+      "slug": "minimal-cap",
+      "name": "Minimal Cap",
+      "category": "Hats",
+      "price": 990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-020",
+      "slug": "ravaan-classic-cap",
+      "name": "RAVAAN Classic Cap",
+      "category": "Hats",
+      "price": 1190,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-021",
+      "slug": "everyday-beanie",
+      "name": "Everyday Beanie",
+      "category": "Hats",
+      "price": 1290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-022",
+      "slug": "structured-cap",
+      "name": "Structured Cap",
+      "category": "Hats",
+      "price": 1390,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-023",
+      "slug": "everyday-sneakers",
+      "name": "Everyday Sneakers",
+      "category": "Shoes",
+      "price": 4490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "men-024",
+      "slug": "urban-low-top-sneakers",
+      "name": "Urban Low-Top Sneakers",
+      "category": "Shoes",
+      "price": 4990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    }
+  ],
+  "note": "Sample catalogue. Replace 'image'/'gallery' with real photos, and add 'colours'/'sizes' only when they are real. An empty 'sizes' list means size is confirmed on WhatsApp."
+}

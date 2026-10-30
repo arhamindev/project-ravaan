@@ -1,0 +1,69 @@
+{
+  "title": "Size Guide",
+  "note": "Measurements are illustrative and may vary by design and fit. Please check the individual product's sizing information before ordering.",
+  "scope": "Illustrative starting guide for men's and women's tops. Do not apply it to pants, dresses, jackets or shoes; actual sizing for those must be supplied separately.",
+  "tables": [
+    {
+      "title": "Men's tops",
+      "measureLabel": "Chest (inches)",
+      "rows": [
+        [
+          "S",
+          "36–38",
+          "26"
+        ],
+        [
+          "M",
+          "38–40",
+          "27"
+        ],
+        [
+          "L",
+          "40–42",
+          "28"
+        ],
+        [
+          "XL",
+          "42–44",
+          "29"
+        ],
+        [
+          "XXL",
+          "44–46",
+          "30"
+        ]
+      ]
+    },
+    {
+      "title": "Women's tops",
+      "measureLabel": "Bust (inches)",
+      "rows": [
+        [
+          "XS",
+          "30–32",
+          "22"
+        ],
+        [
+          "S",
+          "32–34",
+          "23"
+        ],
+        [
+          "M",
+          "34–36",
+          "24"
+        ],
+        [
+          "L",
+          "36–38",
+          "25"
+        ],
+        [
+          "XL",
+          "38–40",
+          "26"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "gender": "women",
+  "label": "Women",
+  "categories": [
+    "Shirts",
+    "Tops",
+    "Pants",
+    "Hoodies",
+    "Jackets",
+    "Dresses",
+    "Hats",
+    "Shoes"
+  ],
+  "products": [
+    {
+      "id": "women-001",
+      "slug": "essential-relaxed-shirt",
+      "name": "Essential Relaxed Shirt",
+      "category": "Shirts",
+      "price": 2490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-002",
+      "slug": "everyday-button-shirt",
+      "name": "Everyday Button Shirt",
+      "category": "Shirts",
+      "price": 2690,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-003",
+      "slug": "minimal-oversized-shirt",
+      "name": "Minimal Oversized Shirt",
+      "category": "Shirts",
+      "price": 2790,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-004",
+      "slug": "classic-cropped-shirt",
+      "name": "Classic Cropped Shirt",
+      "category": "Shirts",
+      "price": 2290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-005",
+      "slug": "core-fitted-top",
+      "name": "Core Fitted Top",
+      "category": "Tops",
+      "price": 1290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-006",
+      "slug": "everyday-ribbed-top",
+      "name": "Everyday Ribbed Top",
+      "category": "Tops",
+      "price": 1490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-007",
+      "slug": "essential-boxy-top",
+      "name": "Essential Boxy Top",
+      "category": "Tops",
+      "price": 1590,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-008",
+      "slug": "minimal-graphic-top",
+      "name": "Minimal Graphic Top",
+      "category": "Tops",
+      "price": 1790,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-009",
+      "slug": "relaxed-straight-pants",
+      "name": "Relaxed Straight Pants",
+      "category": "Pants",
+      "price": 2990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-010",
+      "slug": "everyday-wide-leg-pants",
+      "name": "Everyday Wide-Leg Pants",
+      "category": "Pants",
+      "price": 3290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-011",
+      "slug": "urban-cargo-pants",
+      "name": "Urban Cargo Pants",
+      "category": "Pants",
+      "price": 3490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-012",
+      "slug": "essential-joggers",
+      "name": "Essential Joggers",
+      "category": "Pants",
+      "price": 2490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-013",
+      "slug": "core-relaxed-hoodie",
+      "name": "Core Relaxed Hoodie",
+      "category": "Hoodies",
+      "price": 3490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-014",
+      "slug": "everyday-zip-hoodie",
+      "name": "Everyday Zip Hoodie",
+      "category": "Hoodies",
+      "price": 3790,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-015",
+      "slug": "minimal-pullover-hoodie",
+      "name": "Minimal Pullover Hoodie",
+      "category": "Hoodies",
+      "price": 3990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-016",
+      "slug": "urban-graphic-hoodie",
+      "name": "Urban Graphic Hoodie",
+      "category": "Hoodies",
+      "price": 4290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-017",
+      "slug": "everyday-bomber-jacket",
+      "name": "Everyday Bomber Jacket",
+      "category": "Jackets",
+      "price": 4990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-018",
+      "slug": "relaxed-utility-jacket",
+      "name": "Relaxed Utility Jacket",
+      "category": "Jackets",
+      "price": 5490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-019",
+      "slug": "minimal-everyday-dress",
+      "name": "Minimal Everyday Dress",
+      "category": "Dresses",
+      "price": 2990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-020",
+      "slug": "relaxed-midi-dress",
+      "name": "Relaxed Midi Dress",
+      "category": "Dresses",
+      "price": 3490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-021",
+      "slug": "everyday-cap",
+      "name": "Everyday Cap",
+      "category": "Hats",
+      "price": 990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-022",
+      "slug": "minimal-structured-cap",
+      "name": "Minimal Structured Cap",
+      "category": "Hats",
+      "price": 1190,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-023",
+      "slug": "classic-beanie",
+      "name": "Classic Beanie",
+      "category": "Hats",
+      "price": 1290,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-024",
+      "slug": "everyday-sneakers",
+      "name": "Everyday Sneakers",
+      "category": "Shoes",
+      "price": 4490,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    },
+    {
+      "id": "women-025",
+      "slug": "minimal-low-top-sneakers",
+      "name": "Minimal Low-Top Sneakers",
+      "category": "Shoes",
+      "price": 4990,
+      "currency": "PKR",
+      "image": "assets/images/product-placeholder.webp",
+      "gallery": [
+        "assets/images/product-placeholder.webp"
+      ],
+      "colours": [],
+      "sizes": [],
+      "description": "An everyday RAVAAN essential with a contemporary silhouette. Designed to complement your personal style and fit naturally into your wardrobe.",
+      "hasRealPhoto": false
+    }
+  ],
+  "note": "Sample catalogue. Replace 'image'/'gallery' with real photos, and add 'colours'/'sizes' only when they are real. An empty 'sizes' list means size is confirmed on WhatsApp."
+}

@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "faq-1",
+      "question": "How do I place an order?",
+      "answer": "Browse the collection, select your preferred product, choose the available size and quantity, and add it to your cart. Continue to checkout and provide your contact and delivery details. You can then send your order request through WhatsApp."
+    },
+    {
+      "id": "faq-2",
+      "question": "How does checkout work?",
+      "answer": "The website prepares your order summary and opens WhatsApp with a prefilled message. Our proposed initial payment method is Cash on Delivery."
+    },
+    {
+      "id": "faq-3",
+      "question": "Do you deliver across Pakistan?",
+      "answer": "Our planned delivery coverage includes Karachi and other cities across Pakistan. Delivery availability and estimated times should be confirmed when your order is processed."
+    },
+    {
+      "id": "faq-4",
+      "question": "How long does delivery take?",
+      "answer": "Estimated delivery is 2–4 business days in Karachi, 3–6 business days in other major cities and 5–8 business days in remote areas. Actual delivery times may vary."
+    },
+    {
+      "id": "faq-5",
+      "question": "Can I exchange a product?",
+      "answer": "Under the proposed exchange policy, customers can request an exchange within 7 days of delivery, provided the item meets the stated condition requirements."
+    },
+    {
+      "id": "faq-6",
+      "question": "Can I cancel my order?",
+      "answer": "Contact us on WhatsApp as soon as possible. Cancellation may not be possible once an order has been dispatched."
+    },
+    {
+      "id": "faq-7",
+      "question": "How do I choose my size?",
+      "answer": "Refer to the size guide and individual product sizing information. If you need help, contact us on WhatsApp before placing your order."
+    },
+    {
+      "id": "faq-8",
+      "question": "What payment methods are available?",
+      "answer": "The proposed initial payment method is Cash on Delivery."
+    },
+    {
+      "id": "faq-9",
+      "question": "How can I contact RAVAAN?",
+      "answer": "You can contact our customer support team through WhatsApp at 03152136621."
+    }
+  ],
+  "note": "Policy-based answers are proposed launch assumptions; confirm before publishing."
+}
